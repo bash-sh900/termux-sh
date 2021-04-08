@@ -2,7 +2,7 @@
 
 [1] pkg update && pkg upgrade
 
-[2] pkg install clang
+[2] pkg install clang && pkg install wget
 
 [3] pkg install figlet
 
